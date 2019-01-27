@@ -7,3 +7,5 @@ def array_with_two_elements
   array = [0,1]
   array
 end
+
+def 
